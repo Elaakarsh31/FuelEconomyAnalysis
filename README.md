@@ -6,7 +6,7 @@ This project analyzes fuel economy data to understand urban fuel consumption (UC
 
 ## 📊 Dataset Information
 
-Source: U.S. Department of Energy - Fuel Economy Dataset (https://www.fueleconomy.gov/)
+*Source*: [U.S. Department of Energy - Fuel Economy Dataset](https://www.fueleconomy.gov/)
 
 Records: 40,081 vehicles
 
