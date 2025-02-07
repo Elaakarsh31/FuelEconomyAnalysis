@@ -26,52 +26,56 @@ This project analyzes fuel economy data to understand urban fuel consumption (UC
 
 ### ✅ Exploratory Data Analysis (EDA)
 
-Identified missing values and cleaned dataset
+- Identified missing values and cleaned dataset
 
-Boxplots, histograms, and bar charts used to visualize fuel consumption trends
+- Boxplots, histograms, and bar charts used to visualize fuel consumption trends
 
-Strong correlation found between UCity and features like displ (engine displacement) & cylinders
-
-
+- Strong correlation found between UCity and features like displ (engine displacement) & cylinders
 
 
-✅ Feature Engineering
 
-One-hot encoding applied to categorical variables (fuelType, drive, VClass)
 
-Created engine efficiency metric (displ / cylinders)
+### ✅ Feature Engineering
 
-Removed highly correlated redundant features
+- One-hot encoding applied to categorical variables (fuelType, drive, VClass)
 
-✅ Machine Learning Model
+- Created engine efficiency metric (displ / cylinders)
 
-Built Regression Models to predict UCity
+- Removed highly correlated redundant features
 
-Used Linear Regression, Random Forest, and XGBoost
+### ✅ Machine Learning Model
 
-Best Model: Random Forest Regression (R² = 0.85, RMSE = 2.3)
+- Built Regression Models to predict UCity
 
-⚙️ How to Run the Notebook
+- Used Linear Regression, Random Forest, and XGBoost
 
-Clone this repository:
+- Best Model: Random Forest Regression (R² = 0.85, RMSE = 2.3)
 
+## ⚙️ How to Run the Notebook
+
+1. Clone this repository:
+
+```
 git clone https://github.com/yourusername/Fuel-Economy-Analysis.git
 cd Fuel-Economy-Analysis
+```
 
-Install dependencies:
+2. Install dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-Open and run the Jupyter Notebook:
+3. Open and run the Jupyter Notebook:
 
-jupyter notebook main.ipynb
+```jupyter notebook main.ipynb```
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
-Optimize model hyperparameters for better accuracy
+- Optimize model hyperparameters for better accuracy
 
-Include more external datasets for better generalization
+- Include more external datasets for better generalization
 
-Deploy model as a web API for real-time fuel efficiency predictions
+- Deploy model as a web API for real-time fuel efficiency predictions
 
-📌 Author: Your Name📧 Contact: your.email@example.com⭐ If you found this useful, give it a star! 🌟
+**📌 Author**: Aakarsh Arora
+**📧 Contact**: aakarshverma330@gmail.com
+**⭐ If you found this useful, give it a star! 🌟**
