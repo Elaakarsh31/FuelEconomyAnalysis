@@ -1,12 +1,12 @@
 # 🚀 Fuel Economy Analysis - Predicting Urban Fuel Consumption (UCity)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes fuel economy data to understand urban fuel consumption (UCity) patterns. Using Exploratory Data Analysis (EDA) and Machine Learning, we identify key factors affecting fuel efficiency and predict UCity values based on vehicle features.
 
-📊 Dataset Information
+## 📊 Dataset Information
 
-Source: U.S. Department of Energy - Fuel Economy Dataset
+Source: U.S. Department of Energy - Fuel Economy Dataset (https://www.fueleconomy.gov/)
 
 Records: 40,081 vehicles
 
