@@ -6,20 +6,21 @@ This project analyzes fuel economy data to understand urban fuel consumption (UC
 
 ## 📊 Dataset Information
 
-*Source*: [U.S. Department of Energy - Fuel Economy Dataset](https://www.fueleconomy.gov/)
+**Source**: [U.S. Department of Energy - Fuel Economy Dataset](https://www.fueleconomy.gov/)
 
-Records: 40,081 vehicles
+**Records**: 40,081 vehicles
 
-Features: Vehicle specs, fuel types, engine details, and CO2 emissions
+**Features**: Vehicle specs, fuel types, engine details, ... , CO2 emissions
 
-📂 Repository Structure
+## 📂 Repository Structure
 
-📦 Fuel-Economy-Analysis
+```📦 Fuel-Economy-Analysis
  ┣ 📂 images               # Visualizations from the notebook
  ┣ 📜 main.ipynb           # Jupyter Notebook with EDA & ML Model
  ┣ 📜 README.md            # Project Documentation
  ┣ 📜 requirements.txt     # Dependencies (Optional)
  ┗ 📜 vehicles.csv         # Dataset (Add in .gitignore if too large)
+```
 
 🔍 Analysis & Key Findings
 
